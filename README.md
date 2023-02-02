@@ -10,8 +10,8 @@ Hi! I'm Dušаn Miletić and I am a novice python developer and a freelancer. In
 
 ### 🧰 Languages and tools
 
-<img alt="Python" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/icons/blob/main/python-original.svg"/>
-<img alt="Python" width="100px" style="padding-right:10px;" src="https://github.com/MDule/mdule/icons/blob/main/django-plain-wordmark.svg"/>
+<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/icons/blob/main/python-original.svg"/>
+<img align="left" alt="Python" width="100px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/django-plain-wordmark.svg"/>
 <!--
 **MDule/mdule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
