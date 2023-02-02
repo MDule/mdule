@@ -12,7 +12,7 @@ Hi! I'm Dušаn Miletić and I am a novice python developer and a freelancer. In
 
 <!-- icons by devicons -->
 <!-- programming languages and frameworks -->
-<div>
+<p>
     <img align="left" title="Python" alt="Python" width="40px" style="padding-right:10px;" src="icons/python-original.svg"/>
     <img align="left" title="Flask" alt="Flask" width="40px" style="padding-right:10px;" src="icons/flask-w-bg-rounded.svg"/>
     <img align="left" title="Django" alt="Django" width="40px" style="padding-right:10px;" src="icons/django-plain.svg"/>
@@ -29,11 +29,14 @@ Hi! I'm Dušаn Miletić and I am a novice python developer and a freelancer. In
     <img align="left" title="MySQL" alt="MySQL" width="40px" style="padding-right:10px;" src="icons/mysql-original.svg"/>
     <img align="left" title="MySQL" alt="MySQL" width="40px" style="padding-right:10px;" src="icons/mysql-original.svg"/>
     <img align="left" title="MongoDB" alt="MongoDB" width="40px" style="padding-right:10px;" src="icons/mongodb-original.svg"/>
-</div>
+</p>
 
-#
+<br>
+<br>
+
 
 ---
+
 
 <!--
 **MDule/mdule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
