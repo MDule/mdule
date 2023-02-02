@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 style="margin: auto">Dušan Miletić</h1>
+<h1 style="text-align: center">Dušan Miletić</h1>
 
 <!--
 **MDule/mdule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
