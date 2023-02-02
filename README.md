@@ -14,21 +14,21 @@ Hi! I'm Dušаn Miletić and I am a novice python developer and a freelancer. In
 
 <!-- icons by devicons -->
 <!-- programming languages and frameworks -->
-<img align="left" title="Python" alt="Python" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/python-original.svg"/>
-<img align="left" title="Flask" alt="Flask" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/flask-original.svg"/>
-<img align="left" title="Django" alt="Django" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/django-plain.svg"/>
+<img align="left" title="Python" alt="Python" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/python-original.svg"/>
+<img align="left" title="Flask" alt="Flask" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/flask-original.svg"/>
+<img align="left" title="Django" alt="Django" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/django-plain.svg"/>
 <!-- markup, look and feel, design -->
-<img align="left" title="HTML5" alt="HTML5" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/html5-original.svg"/>
-<img align="left" title="CSS3" alt="CSS3" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/css3-original.svg"/>
-<img align="left" title="Figma" alt="Figma" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/figma-original.svg"/>
+<img align="left" title="HTML5" alt="HTML5" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/html5-original.svg"/>
+<img align="left" title="CSS3" alt="CSS3" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/css3-original.svg"/>
+<img align="left" title="Figma" alt="Figma" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/figma-original.svg"/>
 <!-- tools, vcs, ci/cd -->
-<img align="left" title="Git" alt="Git" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/git-original.svg"/>
-<img align="left" title="Github" alt="Github" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/github-original.svg"/>
-<img align="left" title="Jenkins" alt="Jenkins" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/jenkins-original.svg"/>
+<img align="left" title="Git" alt="Git" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/git-original.svg"/>
+<img align="left" title="Github" alt="Github" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/github-original.svg"/>
+<img align="left" title="Jenkins" alt="Jenkins" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/jenkins-original.svg"/>
 <!-- data storage -->
-<img align="left" title="SQLite" alt="SQLite" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/sqlite-original.svg"/>
-<img align="left" title="MySQL" alt="MySQL" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/mysql-original.svg"/>
-<img align="left" title="MongoDB" alt="MongoDB" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/mongodb-original.svg"/>
+<img align="left" title="SQLite" alt="SQLite" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/sqlite-original.svg"/>
+<img align="left" title="MySQL" alt="MySQL" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/mysql-original.svg"/>
+<img align="left" title="MongoDB" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/mongodb-original.svg"/>
 
 <br>
 <!--
