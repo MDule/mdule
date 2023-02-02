@@ -30,7 +30,7 @@ Hi! I'm Dušаn Miletić and I am a novice python developer and a freelancer. In
 <img align="left" title="MySQL" alt="MySQL" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/mysql-original.svg"/>
 <img align="left" title="MySQL" alt="MySQL" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/mysql-original.svg"/>
 <img align="left" title="MongoDB" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/mongodb-original.svg"/>
-<img align="left" title="test" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/flask-w-bg.svg"/>
+<img align="left" title="test" alt="MongoDB" width="40px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/flask-w-bg-rounded.svg"/>
 
 <br>
 <!--
