@@ -12,7 +12,7 @@ Hi! I'm Dušаn Miletić and I am a novice python developer and a freelancer. In
 
 <!-- icons by devicons -->
 <!-- programming languages and frameworks -->
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/python-original.svg"/>
+<img align="left" title="Python" alt="Python" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/python-original.svg"/>
 <img align="left" alt="Flask" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/flask-original.svg"/>
 <img align="left" alt="Django" width="50px" style="padding-right:10px;" src="https://github.com/MDule/mdule/blob/main/icons/django-plain.svg"/>
 <!-- markup, look and feel, design -->
