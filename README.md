@@ -39,7 +39,7 @@ Hi! I'm Dušаn Miletić and I am a novice python developer and a freelancer. In
 <br>
 You can contact me via:
 
-- [E-mail](mailto:email@example.com:) - 
+- [E-mail](mailto:email@example.com) - 
 - [Linked In](#)
 
 <!--
