@@ -32,7 +32,6 @@ Hi! I'm Dušаn Miletić and I am a novice python developer and a freelancer. In
 
 <br>
 <br>
-<br>
 
 ---
 
