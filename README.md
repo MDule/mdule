@@ -8,8 +8,8 @@ Hi! I'm Dušаn Miletić and I am a novice python developer and a freelancer. In
 
 ---
 
-### 🧰 Languages and tools
-
+<h3> 🧰 Languages and tools </h3>
+<br>
 <!-- icons by devicons -->
 <!-- programming languages and frameworks -->
 <p>
@@ -27,16 +27,20 @@ Hi! I'm Dušаn Miletić and I am a novice python developer and a freelancer. In
     <!-- data storage -->
     <img align="left" title="SQLite" alt="SQLite" width="40px" style="padding-right:10px;" src="icons/sqlite-original.svg"/>
     <img align="left" title="MySQL" alt="MySQL" width="40px" style="padding-right:10px;" src="icons/mysql-original.svg"/>
-    <img align="left" title="MySQL" alt="MySQL" width="40px" style="padding-right:10px;" src="icons/mysql-original.svg"/>
     <img align="left" title="MongoDB" alt="MongoDB" width="40px" style="padding-right:10px;" src="icons/mongodb-original.svg"/>
 </p>
 
 <br>
 <br>
-
+<br>
 
 ---
 
+<h3> 💬 Contact </h3>
+<br>
+You can contact me via:
+- E-mail
+- [Linked In](#)
 
 <!--
 **MDule/mdule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
